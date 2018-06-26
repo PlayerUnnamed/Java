@@ -1,0 +1,43 @@
+#bloco{
+	width: 600px;
+	background: #FF0000;
+	margin: auto;
+
+
+}
+
+
+#imagem{
+	width: 400px;
+	height: 300px;
+	border: 50px;
+	padding: 200px;
+
+
+}
+
+
+nav {
+
+background-color: #00BFFF;
+font-family: Arial, cursive;
+margin: 32px;
+padding: 32px;
+
+
+}
+
+nav li{
+
+	background-color: #00BFFF;
+	display: inline;
+	border: 30px;
+}
+
+
+header{
+	background-color: #FF0000;
+	margin: 20px;
+	padding: 20px;
+}
+
